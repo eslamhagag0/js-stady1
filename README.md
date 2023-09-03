@@ -1,1 +1,1 @@
-# js-stady1
+# js1-stady
